@@ -30,6 +30,10 @@ Comandos de git para trabajar en la terminal
 
 usa **status** o **diff** para ver que has cambiado antes de ejecualquier comando git.
 
+Para descargar el archivo desdes git hub
+
+      git pull origin master
+
 
 
 
